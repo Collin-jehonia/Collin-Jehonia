@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Collin-jehonia/Collin-Jehonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer
 
 Here are some ideas to get you started:
 
@@ -11,4 +10,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: collinnehemia774@gmail.com
--->
